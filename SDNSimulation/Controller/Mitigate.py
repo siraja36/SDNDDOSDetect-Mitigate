@@ -10,7 +10,7 @@ import pandas as pd
 import numpy as np
 from tensorflow import keras
 
-class SimpleMonitor13(switchm.SimpleSwitch13):
+class SimpleMonitor13(SwitchMitigate.SimpleSwitch13):
 
     def __init__(self, *args, **kwargs):
 
