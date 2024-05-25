@@ -1,2 +1,2 @@
 # SDNDDOSDetect-Mitigate
-cc
+data is sent via google drive
